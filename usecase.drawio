@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T10:48:43.918Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XmyZRSOCkZDt5-LVHO0_" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-10T10:49:42.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="93WgsD8NhkjZf4nHzNc0" version="24.0.4" type="github" pages="9">
   <diagram name="TongQuat" id="gvFbbxzgyaFYYrvIvwsP">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,23 +192,38 @@
         <mxCell id="PkjrMtp5OfS_NiAlq09m-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="DBbsASg2C73_bdCjhR4W-29" target="DBbsASg2C73_bdCjhR4W-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DBbsASg2C73_bdCjhR4W-29" value="Lịch sử tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="410" y="820" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="DBbsASg2C73_bdCjhR4W-30" value="Lịch sử đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="460" y="890" width="120" height="40" as="geometry" />
+        <mxCell id="5z4tyJchyPjQIIpsUYp0-1" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkjrMtp5OfS_NiAlq09m-2">
+          <mxGeometry x="-0.1109" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PkjrMtp5OfS_NiAlq09m-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;endArrow=open;endFill=0;entryX=0.633;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DBbsASg2C73_bdCjhR4W-31" target="DBbsASg2C73_bdCjhR4W-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="DBbsASg2C73_bdCjhR4W-31" value="Danh sách yêu thích" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="560" y="840" width="120" height="40" as="geometry" />
+        <mxCell id="5z4tyJchyPjQIIpsUYp0-3" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkjrMtp5OfS_NiAlq09m-4">
+          <mxGeometry x="-0.0767" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="PkjrMtp5OfS_NiAlq09m-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.442;entryY=0.975;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="DBbsASg2C73_bdCjhR4W-30" target="DBbsASg2C73_bdCjhR4W-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="5z4tyJchyPjQIIpsUYp0-2" value="&amp;lt;&amp;lt;Include&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="PkjrMtp5OfS_NiAlq09m-3">
+          <mxGeometry x="-0.1126" y="-2" relative="1" as="geometry">
+            <mxPoint x="-1" y="-16" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PkjrMtp5OfS_NiAlq09m-5" value="Tổng quát" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="620" height="800" as="geometry" />
+        </mxCell>
+        <mxCell id="DBbsASg2C73_bdCjhR4W-31" value="Danh sách yêu thích" style="ellipse;whiteSpace=wrap;html=1;" parent="PkjrMtp5OfS_NiAlq09m-5" vertex="1">
+          <mxGeometry x="480" y="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DBbsASg2C73_bdCjhR4W-30" value="Lịch sử đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="PkjrMtp5OfS_NiAlq09m-5" vertex="1">
+          <mxGeometry x="380" y="680" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DBbsASg2C73_bdCjhR4W-29" value="Lịch sử tìm kiếm" style="ellipse;whiteSpace=wrap;html=1;" parent="PkjrMtp5OfS_NiAlq09m-5" vertex="1">
+          <mxGeometry x="314" y="620" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
