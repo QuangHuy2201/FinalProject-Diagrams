@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-19T11:21:01.861Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="jJpVMPOGO9goELEl7W27" version="24.0.4" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-19T11:23:12.504Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mKj_lVJMNkDtolWsTIi9" version="24.0.4" type="github" pages="9">
   <diagram name="TongQuat" id="gvFbbxzgyaFYYrvIvwsP">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -235,18 +235,18 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ig0mau4ZEip-oeLcZOWo-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" target="HvPoZ9oWYfj5s-ngqukg-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="260" as="sourcePoint" />
+            <mxPoint x="80" y="260" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tCoYM2ApdEihgxhBEJmc-1" value="Khách hàng" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="220" width="30" height="60" as="geometry" />
+          <mxGeometry x="40" y="220" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HvPoZ9oWYfj5s-ngqukg-1" value="Đăng ký" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="235" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ig0mau4ZEip-oeLcZOWo-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ig0mau4ZEip-oeLcZOWo-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="250" as="targetPoint" />
+            <mxPoint x="80" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ig0mau4ZEip-oeLcZOWo-1" value="Đăng nhập" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -265,7 +265,7 @@
         </mxCell>
         <mxCell id="ig0mau4ZEip-oeLcZOWo-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ig0mau4ZEip-oeLcZOWo-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="90" y="270" as="targetPoint" />
+            <mxPoint x="80" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ig0mau4ZEip-oeLcZOWo-5" value="Thay đổi thông tin&lt;div&gt;tài khoản&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -282,7 +282,7 @@
         <mxCell id="ig0mau4ZEip-oeLcZOWo-8" value="Khóa tài khoản&lt;div&gt;thành viên vi phạm&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="230" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ig0mau4ZEip-oeLcZOWo-14" value="Diagram Heading" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+        <mxCell id="ig0mau4ZEip-oeLcZOWo-14" value="Quản lý tài khoản" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="440" height="340" as="geometry" />
         </mxCell>
       </root>
