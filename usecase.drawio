@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T10:52:35.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TSWE7pyGQFOtG6wFq8_a" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-29T10:53:14.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CppkKumufLNpDzZ34hG1" version="24.2.1" type="github" pages="6">
   <diagram name="TongQuat" id="gvFbbxzgyaFYYrvIvwsP">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -715,7 +715,7 @@
         <mxCell id="thOL-_XLWqzCaoji4SZB-11" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="389.99936051673706" y="420.00499374309794" as="geometry" />
         </mxCell>
-        <mxCell id="thOL-_XLWqzCaoji4SZB-12" value="Diagram Heading" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
+        <mxCell id="thOL-_XLWqzCaoji4SZB-12" value="Hệ thống khuyến nghị" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" vertex="1" parent="1">
           <mxGeometry x="160" y="40" width="480" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MnaWTvHJtLQ7if8EpDnQ-1" value="Sản phẩm bán chạy" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="thOL-_XLWqzCaoji4SZB-12">
