@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T10:49:37.213Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3DMx-vj0ZjKV-XV1lcDt" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-29T10:49:54.834Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Q9pMYsm1W6Ip2bEghku1" version="24.2.1" type="github" pages="6">
   <diagram name="TongQuat" id="gvFbbxzgyaFYYrvIvwsP">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PkjrMtp5OfS_NiAlq09m-5" value="Tổng quát" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" parent="1" vertex="1">
-          <mxGeometry x="100" y="200" width="620" height="800" as="geometry" />
+          <mxGeometry x="100" y="240" width="620" height="760" as="geometry" />
         </mxCell>
         <mxCell id="DBbsASg2C73_bdCjhR4W-31" value="Danh sách yêu thích" style="ellipse;whiteSpace=wrap;html=1;" parent="PkjrMtp5OfS_NiAlq09m-5" vertex="1">
           <mxGeometry x="480" y="640" width="120" height="40" as="geometry" />
