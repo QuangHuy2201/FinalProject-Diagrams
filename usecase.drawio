@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T11:00:17.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uRMNbBc2ouq2zqW00QKD" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-03-30T04:00:10.786Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BLR-kj2W7G4CYekc38A7" version="24.2.1" type="github" pages="6">
   <diagram name="TongQuat" id="gvFbbxzgyaFYYrvIvwsP">
     <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,10 +350,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="twKvsKXY7Ya4ovyCki4I-14" value="Xem thông tin đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="500" y="120" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="V2HMqfTsXuqTtGYqnAad-1" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;endArrow=open;endFill=0;" edge="1" parent="1" source="twKvsKXY7Ya4ovyCki4I-15" target="twKvsKXY7Ya4ovyCki4I-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="V2HMqfTsXuqTtGYqnAad-2" value="&amp;lt;&amp;lt;Extend&amp;gt;&amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2HMqfTsXuqTtGYqnAad-1">
+          <mxGeometry x="0.02" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="twKvsKXY7Ya4ovyCki4I-15" value="Cập nhật trạng thái đơn hàng" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="680" y="120" width="120" height="80" as="geometry" />
+          <mxGeometry x="720" y="120" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="twKvsKXY7Ya4ovyCki4I-21" value="Admin" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="960" y="260" width="30" height="60" as="geometry" />
