@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Trang-1" id="fx4xgaFJXBgBdHPYIMws">
-    <mxGraphModel dx="1755" dy="1662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1888" dy="1733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -682,7 +682,7 @@
         </mxCell>
         <mxCell id="xjVH5rVPS62ikL9oMdvB-210" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xjVH5rVPS62ikL9oMdvB-208" vertex="1" connectable="0">
           <mxGeometry x="0.0861" y="9" relative="1" as="geometry">
-            <mxPoint x="-34" y="151" as="offset" />
+            <mxPoint x="-19" y="145" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xjVH5rVPS62ikL9oMdvB-209" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=link;" parent="1" target="ZPcHN7Fkorl6znalGgMs-55" edge="1">
@@ -692,7 +692,7 @@
         </mxCell>
         <mxCell id="xjVH5rVPS62ikL9oMdvB-211" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xjVH5rVPS62ikL9oMdvB-209" vertex="1" connectable="0">
           <mxGeometry x="-0.0144" y="5" relative="1" as="geometry">
-            <mxPoint x="-29" y="-66" as="offset" />
+            <mxPoint x="-31" y="-85" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xjVH5rVPS62ikL9oMdvB-205" value="has" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
