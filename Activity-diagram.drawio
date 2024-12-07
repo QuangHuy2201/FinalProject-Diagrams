@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-13T10:54:33.537Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="mDiFy4KLE6dWd-WqVolV" version="24.6.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3" pages="5">
   <diagram name="KH quản lý giỏ hàng" id="glpUnwe-d-FHFiN7pNbO">
-    <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wGetY01Q4PkXhJ5S1TDO" name="KH Tìm kiếm sản phẩm">
-    <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -148,13 +148,13 @@
         <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nGuQ5Qsm1o0M4dv9xNYN-12" target="nGuQ5Qsm1o0M4dv9xNYN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-12" value="Theo giá" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-12" value="Theo tác giả" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-25" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="nGuQ5Qsm1o0M4dv9xNYN-14" target="nGuQ5Qsm1o0M4dv9xNYN-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-14" value="Theo loại sản phẩm" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-14" value="Theo nhà xuất bản" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="293.5" y="650" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nGuQ5Qsm1o0M4dv9xNYN-15" value="Nhập thông tin" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
